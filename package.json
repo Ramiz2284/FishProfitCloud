@@ -1,0 +1,9 @@
+{
+  "name": "fish-smoking-app",
+  "version": "1.0.0",
+  "description": "Простой учёт копчения рыбы",
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'No build needed'"
+  }
+}
